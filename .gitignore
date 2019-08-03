@@ -1,2 +1,9 @@
 # Project exclude paths
 /venv/
+
+# IDE stuff
+.idea
+
+# Runtime data caches
+*.pkl
+.ipynb_checkpoints
